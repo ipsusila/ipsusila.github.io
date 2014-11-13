@@ -1,0 +1,30 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               IPS
+tagline:             'belajar, meneliti dan berbagi <a href="http://www.researchgate.net/profile/I_Putu_Susila" target="_blank"><img class="inline" src="http://www.researchgate.net/favicon.ico" width="16" height="16"></a>'
+description:         'Catatan mengenai pemrograman (C/C++, C#, Java), mikrokontroler, dan penelitian'
+url:                 http://ipsusila.github.io
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              I Putu Susila
+  url:               http://ipsusila.github.io
+  email:             susila.ip@gmail.com
+
+#GitHub
+github:
+  repo:              https://github.com/ipsusila/
+
+# Custom vars
+version:             1.0.0
