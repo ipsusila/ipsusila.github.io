@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dasar-dasar Pemrograman
+title: Dasar-dasar pemrograman
 comments: true
 ---
 
@@ -8,9 +8,7 @@ Tidak ada seorangpun didunia ini langsung menjadi seorang ahli tanpa melalui tah
 
 Seringkali, pada tahapan pemula, seseorang tergesa-gesa ingin membuat suatu aplikasi yang "keren", padahal konsep dasar dari pemrograman belum dikuasai dengan benar. Hal ini saya rasakan setelah mengamati berbagai posting di milis/forum/group *facebook* yang terkait dengan pemrograman, dimana seringkali muncul pertanyaan-pertanyaan (oleh pemula yang baru memulai pemrograman) seperti "*ajarin dong cara memprogram GUI di bahasa C++*, *bagaimana membuat program yang terkoneksi dengan database di bahasa ...*" dan lain sebagainya. Saya katakan tergesa-gesa karena misalnya untuk memprogram GUI di C++ harus paham dulu konsep-konsep mengenai *library*/pustaka (karena C++ tidak punya pustaka standar untuk GUI), *event*, *event handler*, jenis-jenis *control*, API (*application programming interface*) dari pustaka yang digunakan, dan masih banyak lagi konsep lainnya, dan hal-hal tersebut tidak bisa dijelaskan dan dipahami hanya dengan beberapa kalimat/paragraf. 
 
-Akan tetapi, permasalahan terkait keinginan "tergesa-gesa" ini tidak bisa hanya ditimpakan pada si pemula tersebut. Mungkin saja metode yang diajarkan di sekolah/kampusnya membosankan, atau pada saat belajar/kuliah tidak diajarkan dengan benar konsep-konsep yang ingin disampaikan pada tiap-tiap soal yang harus dikerjakan sehingga tidak dipahami apa sebenernya manfaat dari menyelesaikan suatu soal/permasalahan. Selain itu, ketika coba dicari di internet, seringkali tutorial-tutorial hanya mencantumkan *source code*, tanpa ada penjelasan yang detil mengenai konsep serta proses yang dilakukan. 
-
-Pada tulisan kali ini, akan coba saya uraikan konsep-konsep paling mendasar yang ada pada tiap-tiap bahasa pemrograman khususnya bahasa pemrograman tingkat tinggi. Tulisan ini terinspirasi dan banyak mengutip artikel [[3]](http://www.gamedev.net/page/resources/_/technical/general-programming/the-programming-primer-r3090). 
+Pada tulisan kali ini, akan coba dipaparkan mengenai konsep-konsep paling mendasar pada bahasa pemrograman khususnya bahasa pemrograman tingkat tinggi. Tulisan ini terinspirasi dan banyak mengutip artikel [[3]](http://www.gamedev.net/page/resources/_/technical/general-programming/the-programming-primer-r3090). 
 
 ## Apa itu pemrograman?
 
