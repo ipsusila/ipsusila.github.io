@@ -10,7 +10,8 @@ relative_permalinks: true
 
 # Setup
 title:               IPS
-tagline:             'belajar, meneliti dan berbagi <a href="http://www.researchgate.net/profile/I_Putu_Susila" target="_blank"><img class="inline" src="http://www.researchgate.net/favicon.ico" width="16" height="16"></a>'
+tagline:             'belajar dan berbagi'
+tagicon:		     '<a href="http://www.researchgate.net/profile/I_Putu_Susila" target="_blank"><img class="inline" src="http://www.researchgate.net/favicon.ico" width="16" height="16"></a>'
 description:         'Catatan mengenai pemrograman (C/C++, C#, Java), mikrokontroler, dan penelitian'
 url:                 http://ipsusila.github.io
 baseurl:             /
